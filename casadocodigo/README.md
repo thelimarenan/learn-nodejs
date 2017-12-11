@@ -39,3 +39,10 @@ values ('Comecando com javascript', 'livro introdutório sobre javascript', 39.9
 insert into produtos(titulo, descricao, preco)
 values ('Comecando com express', 'livro introdutório sobre express', 39.90);
 ```
+
+#### Ambiente de Teste
+
+ Para Utilizar o ambiente de teste no Windows, use
+ ``` sh
+ SET ENV_NODE=test
+ ```
